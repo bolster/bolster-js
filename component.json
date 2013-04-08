@@ -1,0 +1,7 @@
+{
+  "name": "bolster-js",
+  "version": "0.0.1",
+  "main": [
+    "contrib/*"
+  ]
+}
