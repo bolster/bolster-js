@@ -1,0 +1,10 @@
+{
+  "name": "bolster-js",
+  "version": "0.1.0",
+  "main": [
+    "contrib/console-helper.js",
+    "contrib/django.slugify.js",
+    "contrib/offsetRelative.jquery.js",
+    "contrib/parsley.extend.js"
+  ]
+}
