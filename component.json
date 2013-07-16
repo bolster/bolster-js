@@ -1,19 +1,11 @@
 {
   "name": "bolster-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": [
     "contrib/console-helper.js",
     "contrib/django.slugify.js",
     "contrib/offsetRelative.jquery.js",
-    "contrib/parsley.extend.js"
-  ],
-  "gitHead": "fe17d2cdad2ddc4ceb08b1331e2cd34d13741e07",
-  "_id": "bolster-js@0.0.1",
-  "readme": "ERROR: No README.md file found!",
-  "description": "ERROR: No README.md file found!",
-  "commit": "fe17d2cdad2ddc4ceb08b1331e2cd34d13741e07",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:bolster/bolster-js.git"
-  }
+    "contrib/parsley.extend.js",
+    "contrib/jquery.ajax.queue.js"
+  ]
 }

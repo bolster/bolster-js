@@ -1,10 +1,11 @@
 {
   "name": "bolster-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": [
     "contrib/console-helper.js",
     "contrib/django.slugify.js",
     "contrib/offsetRelative.jquery.js",
-    "contrib/parsley.extend.js"
+    "contrib/parsley.extend.js",
+    "contrib/jquery.ajax.queue.js"
   ]
 }
